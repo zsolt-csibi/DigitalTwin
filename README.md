@@ -40,11 +40,12 @@ Create a digital twin, which should work like:
 ![mate](./docs/mate.gif)
 ![voldemort](./docs/voldemort.gif)
 
-
 # First Order Model
 - We still have nightmares after this
 - Results are bad, also a relatively slow method
 
+![trump](./docs/trump.gif)
+![csato](./docs/csato.gif)
 
 # Real Time Voice Cloning
 
@@ -66,7 +67,10 @@ Create a digital twin, which should work like:
 - For the reference videos we used the pretrained multilingual models.
 
 # TTS + Wav2Lip
+
 - It gave us a pretty good result
 - It’s highly depend on where the face is on the recording
 - Better results with 720p and 480p landscape videos
 - Higher resolution videos gave artifacts
+
+![pipeline](./docs/digitalTwinpipeline.drawio.png)
