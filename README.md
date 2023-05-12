@@ -48,7 +48,7 @@ Create a digital twin, which should work like:
 
 # Real Time Voice Cloning
 
-<video src="./docs/7dia.mp4"></video>
+![7dia](./docs/7dia.mp4)
 
 - It did not handle noisy recordings.
 - It was very slow.
@@ -57,7 +57,7 @@ Create a digital twin, which should work like:
 
 # TTS
 
-<video src="./docs/8dia.mp4"></video>
+![8dia](./docs/8dia.mp4)
 
 - TTS provided pretty good results regarding audio.
 - The generated audio sound pretty close to the sample.
