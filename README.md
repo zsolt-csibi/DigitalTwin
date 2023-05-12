@@ -36,6 +36,9 @@ Create a digital twin, which should work like:
 - It makes a video based on an image and a reference video
 - It was also very slow
 
+![mate](./docs/mate.gif)
+![voldemort](./docs/voldemort.gif)
+
 
 # First Order Model
 - We still have nightmares after this
@@ -43,12 +46,18 @@ Create a digital twin, which should work like:
 
 
 # Real Time Voice Cloning
+
+![generated voice](./docs/7dia.mp4)
+
 - It did not handle noisy recordings.
 - It was very slow.
 - Needs a lots of training data.
 - The generated audio sounds like a robot.
 
 # TTS
+
+![generated voice](./docs/8dia.mp4)
+
 - TTS provided pretty good results regarding audio.
 - The generated audio sound pretty close to the sample.
 - The audio generation is also fast.
