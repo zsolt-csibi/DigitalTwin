@@ -10,11 +10,11 @@ Dos Santos Melício Bruno Carlos
 
 # Goal
 Create a digital twin, which should work like:
-1. We have take an input video of a person
-2. We split the video and audio
+1. Take an input video of a person
+2. Split the video and audio
 3. Train a model on the video and audio
-4. We prompt a text
-5. Then the model generates a video of a person saying that text with the person’s voice
+4. Prompt a text
+5. The model generates a video of a person saying that text with the person’s voice
 
 
 # Technologies we tried
@@ -69,7 +69,7 @@ Create a digital twin, which should work like:
 # TTS + Wav2Lip
 
 - It gave us a pretty good result
-- It’s highly depend on where the face is on the recording
+- It’s highly dependent on where the face is on the recording
 - Better results with 720p and 480p landscape videos
 - Higher resolution videos gave artifacts
 
