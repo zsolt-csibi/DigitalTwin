@@ -93,7 +93,7 @@ video
 
 - Can create lip synced video from image
 - We used the wav2lip_gan.pth pretrained model
-- 
+
 ### Lots of hyperparameter:
 
 - pads - we can move the detected bounding box around the face
