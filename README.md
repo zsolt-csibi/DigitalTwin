@@ -130,6 +130,11 @@ video
 
 # 6. Conclusion
 
+ - Overall we managed to make a pipeline that creates an accurate avatar
+ - The method is not general enough, because it is highly dependent on the face position on the image
+ - The voice cloning generates realistic audio files
+ - The generated videos sometimes contain blurry frames but overall they are pretty good
+
 ## Future plans
 
  - Make voice cloning more clear
